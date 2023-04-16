@@ -36,9 +36,9 @@ const Clock = () => {
         })
     }
 
-  //  useEffect(()=>{
-     //   countDown();
-   // })
+    useEffect(()=>{
+        countDown();
+    },[])
   return (
     <div className='clock__wrapper d-flex align-items-center gap-3 '>
         <div className='clock__data d-flex align-items-center gap-3'>
