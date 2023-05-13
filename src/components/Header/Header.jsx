@@ -90,13 +90,14 @@ const Header = () => {
       <Container>
         <Row>
           <div className="nav__wrapper">
+            <Link to="/">
             <div className="logo">
               <img src={logo} alt="logo" />
               <div className="andromeda">
                 <h1>Andromeda</h1>
               </div>
             </div>
-
+            </Link>
             <div className="navigation" ref={menuRef} onClick={menuToggle}>
               <ul className="menu">
                 {nav__links.map((item, index) => (
