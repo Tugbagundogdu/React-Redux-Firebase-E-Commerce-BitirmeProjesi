@@ -90,7 +90,7 @@ const Header = () => {
       <Container>
         <Row>
           <div className="nav__wrapper">
-            <Link style={{textDecoration:"none"}} to="/">
+            <Link  style={{ textDecoration: 'none' }} to="/">
             <div className="logo">
               <img src={logo} alt="logo" />
               <div className="andromeda">
