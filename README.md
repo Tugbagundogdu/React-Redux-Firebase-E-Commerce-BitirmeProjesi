@@ -10,6 +10,5 @@ Projeyi [buradan](https://tugbagundogdu.netlify.app/home) inceleyebilirsiniz. <b
 !!! Linke tıkladığınzda Page Not Found hatası alıyorsanız   _< Back to our site_ kısmına tıklarsanız sayfa sizi projeme yönlendirecektir. <br>
 Siteye kaydolurken sizden bir profil fotoğrafı girilmesi istenecektir. Siteyle uyumlu olması adına dilerseniz bu görsellerden yararlanabilirsiniz; <br>
 https://cdn-icons-png.flaticon.com/512/219/219969.png  <br>
-https://cdn-icons-png.flaticon.com/512/219/219983.png <br> 
-Firebase authentication kısmıyla ilgili şöyle bir görsel bırakayım :) <br> <br>
+https://cdn-icons-png.flaticon.com/512/219/219983.png <br>  <br>
 ![Ekran Görüntüsü (313)](https://user-images.githubusercontent.com/78304413/232256597-bde6dfa3-f056-4a47-8aba-31a217335816.png)
